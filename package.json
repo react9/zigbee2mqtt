@@ -44,7 +44,7 @@
     "semver": "*",
     "winston": "2.4.2",
     "zigbee-herdsman": "0.1.17",
-    "zigbee-shepherd-converters": "10.1.4",
+    "zigbee-shepherd-converters": "react9/zigbee-shepherd-converters#master",
     "deep-diff": "*"
   },
   "devDependencies": {
